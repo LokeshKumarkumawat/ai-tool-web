@@ -3128,3 +3128,10 @@ body.page-yellow .tf-mouse-outer {
     padding-bottom: 110px !important;
 
 }
+
+
+.img-01{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
